@@ -1,6 +1,8 @@
 # Build a Dockerized node application using a Jenkins pipeline.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Théo Dura's work for the practical lab.
+
+In this README you will find the desired screenshots.
 
 ## Jenkins build configuration:
 
@@ -183,3 +185,5 @@ Attaching to DataEng-Tp-Jenkins
 [36mDataEng-Tp-Jenkins |[0m   ./src/logo.svg 3.61 KiB [built] [code generated]
 [36mDataEng-Tp-Jenkins |[0m webpack 5.67.0 compiled successfully in 6506 ms
 </code></pre><br />
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
